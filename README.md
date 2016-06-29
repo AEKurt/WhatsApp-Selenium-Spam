@@ -1,2 +1,2 @@
 # WhatsApp-Selenium-Spam
-Using Java Selenium Framework for spamming whatsapp web.
+Using Java Selenium Framework For Spamming on Whatsapp Web.
