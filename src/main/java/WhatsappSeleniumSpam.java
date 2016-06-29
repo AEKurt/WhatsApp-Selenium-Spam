@@ -3,7 +3,7 @@
  * www.aekurt.com
  * https://github.com/aekurt
  * Spam for WhatsApp Web
- *
+ * ********************
  */
 
 import org.openqa.selenium.By;
